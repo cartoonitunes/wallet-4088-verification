@@ -1,0 +1,9 @@
+{
+  "version": "0.3.0",
+  "commit": "11d67369",
+  "optimizer": true,
+  "runs": 200,
+  "soljson_url": "https://github.com/ethereum/solc-bin/raw/gh-pages/bin/soljson-v0.3.0+commit.11d67369.js",
+  "full_version_string": "v0.3.0+commit.11d67369",
+  "language": "Solidity"
+}
